@@ -1,0 +1,1 @@
+We primarily focus on AI/ML research and aim to have more resource-efficient models while maintaining reasonable accuracy. However, we also engage in work in other industries to provide a diverse set of services and products. We only serve select users at the moment.
